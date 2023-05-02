@@ -1,0 +1,16 @@
+{
+  "name": "@tqman/tsconfig",
+  "version": "1.0.0",
+  "description": "Shared TSConfig",
+  "repository": "tanishqmanuja/tsconfig",
+  "author": {
+    "name": "tanishqmanuja",
+    "email": "tanishqmanuja@gmail.com",
+    "url": "https://github.com/tanishqmanuja"
+  },
+  "main": "tsconfig.json",
+  "files": [
+    "tsconfig.json"
+  ],
+  "license": "ISC"
+}
